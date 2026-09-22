@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Noah 👋
 
-<!--
-**NoahNachtigall/NoahNachtigall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 10th-grade High School student (Gymnasium) from Germany with a strong passion for **Computer Science, Artificial Intelligence, and Software Automation**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+- 🧠 **AI & Machine Learning:** Building neural network and image classification projects using Python & PyTorch (e.g., MNIST digit recognition).
+- ♟️ **Algorithms & Logic:** Implementing game AI (Minimax algorithm for Chess) and classic sorting algorithms to deepen my CS fundamentals.
+- 📡 **IoT & Smart Systems:** Developing automated sensor & watering control systems using hardware and wireless communication.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python
+- **Libraries & Frameworks:** PyTorch, PyGame, NumPy
+- **Systems & Tools:** Linux (Mint), Git & GitHub, Bash/Terminal
+
+---
+
+### 🎯 Future Goal
+Aspiring Dual Student in Computer Science / Artificial Intelligence.
