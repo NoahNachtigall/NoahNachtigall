@@ -25,11 +25,11 @@ Aspiring Dual Student in Computer Science / Artificial Intelligence.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="Noahs GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Noahs Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="NoahNachtigall GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="NoahNachtigall Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Noahs GitHub Streak" width="98%" />
+  <img src="https://herokuapp.com" alt="NoahNachtigall GitHub Streak" width="98%" />
 </p>
 
