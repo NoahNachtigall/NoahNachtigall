@@ -22,6 +22,7 @@ I'm a 10th-grade High School student (Gymnasium) from Germany with a strong pass
 Aspiring Dual Student in Computer Science / Artificial Intelligence.
 
 ---
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -32,3 +33,4 @@ Aspiring Dual Student in Computer Science / Artificial Intelligence.
 <p align="center">
   <img src="https://herokuapp.com" alt="Noahs GitHub Streak" width="98%" />
 </p>
+
