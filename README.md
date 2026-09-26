@@ -1,4 +1,4 @@
-# Hi, I'm Noah :)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah!;A+future+millionaire👀)](https://git.io/typing-svg)
 
 I'm a 10th-grade High School student (Gymnasium) from Germany with a strong passion for **Computer Science, Artificial Intelligence, and Software Automation**. 
 
@@ -19,7 +19,7 @@ I'm a 10th-grade High School student (Gymnasium) from Germany with a strong pass
 ---
 
 ### Future Goal
-Aspiring Dual Student in Computer Science / Artificial Intelligence.
+Aspiring Dual Student in Machine learning.
 
 ---
 ---
