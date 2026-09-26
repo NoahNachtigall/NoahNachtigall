@@ -13,7 +13,7 @@ I'm a 10th-grade High School student (Gymnasium) from Germany with a strong pass
 
 ### Tech Stack & Tools
 - **Languages:** Python / C++
- **Libraries & Frameworks:** PyTorch, PyGame, NumPy
+- **Libraries & Frameworks:** PyTorch, PyGame, NumPy
 - **Systems & Tools:** Linux (Mint / Ubuntu), Git & GitHub, Bash/Terminal
 
 ---
