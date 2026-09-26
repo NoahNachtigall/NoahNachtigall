@@ -12,9 +12,9 @@ I'm a 10th-grade High School student (Gymnasium) from Germany with a strong pass
 ---
 
 ### Tech Stack & Tools
-- **Languages:** Python
-- **Libraries & Frameworks:** PyTorch, PyGame, NumPy
-- **Systems & Tools:** Linux (Mint), Git & GitHub, Bash/Terminal
+- **Languages:** Python / C++
+ **Libraries & Frameworks:** PyTorch, PyGame, NumPy
+- **Systems & Tools:** Linux (Mint / Ubuntu), Git & GitHub, Bash/Terminal
 
 ---
 
